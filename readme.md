@@ -13,3 +13,7 @@
 <div align="center">
 <img src= ./assets/all-in-one.png width=10%>
 </div>
+
+## HuggingGPT Lite的复现
+
+在对chatGLM-6b-int4-qe做了很长时间（2 days）的prompt测试后，发现它的效果很烂，完全不能实现任务拆分功能，人工智障一个。我的个人意见是，finetune肯定不能实现我要的效果，但是我目前能用的计算资源根本没法支持我对LLM做finetune，所以先用chatGPT复现HuggingGPT Lite。
