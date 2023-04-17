@@ -1,5 +1,5 @@
-OpenAiKey = "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"
-HuggingfaceKey = "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"
+OpenAiKey = ""
+HuggingfaceKey = ""
 
 # 模型写死为text-davinci-003
 ModelName = "text-davinci-003"
